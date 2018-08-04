@@ -42,7 +42,7 @@ Don't forget that dictionary and text size might be big enough to raise performa
 
 All output messages will be written in 'logs.txt' file (next to the binary file).
 
-Needed libraries:
+Library requirements:
 - boost_system
 - boost_filesystem
 - boost_program_options
@@ -54,6 +54,7 @@ mkdir build && cd build && cmake .. && make -j2
 After that 'spell_checker' file will be created.
 
 2. Help:
+
 ./spell_checker -h
 
 3. Normal start of the program:
