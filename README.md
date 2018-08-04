@@ -47,7 +47,8 @@ Needed libraries:
 - boost_filesystem
 - boost_program_options
 
-1. Build project using cmake.
+1. Build project using cmake:
+
 mkdir build && cd build && cmake .. && make -j2
 
 After that 'spell_checker' file will be created.
@@ -56,4 +57,5 @@ After that 'spell_checker' file will be created.
 ./spell_checker -h
 
 3. Normal start of the program:
+
 ./spell_checker -i ../input.txt -o ../output.txt
