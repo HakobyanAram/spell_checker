@@ -37,7 +37,6 @@ Don't forget that dictionary and text size might be big enough to raise performa
 | mainy oon teh lain                       |                              |
 | was hints pliant                         |                              |
 ---
-=====================================
 
 #### Build & run
 
