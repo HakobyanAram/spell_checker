@@ -49,6 +49,7 @@ Needed libraries:
 
 1. Build project using cmake.
 mkdir build && cd build && cmake .. && make -j2
+
 After that 'spell_checker' file will be created.
 
 2. Help:
